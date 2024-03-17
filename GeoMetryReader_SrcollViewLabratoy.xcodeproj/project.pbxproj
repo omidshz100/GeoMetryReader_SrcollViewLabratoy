@@ -11,6 +11,7 @@
 		D9194C832BA6707200A7E870 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9194C822BA6707200A7E870 /* ContentView.swift */; };
 		D9194C852BA6707300A7E870 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9194C842BA6707300A7E870 /* Assets.xcassets */; };
 		D9194C882BA6707300A7E870 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9194C872BA6707300A7E870 /* Preview Assets.xcassets */; };
+		D9194C8F2BA670AB00A7E870 /* @Extemtions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9194C8E2BA670AB00A7E870 /* @Extemtions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D9194C822BA6707200A7E870 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9194C842BA6707300A7E870 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9194C872BA6707300A7E870 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9194C8E2BA670AB00A7E870 /* @Extemtions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@Extemtions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		D9194C7F2BA6707200A7E870 /* GeoMetryReader_SrcollViewLabratoy */ = {
 			isa = PBXGroup;
 			children = (
+				D9194C8E2BA670AB00A7E870 /* @Extemtions.swift */,
 				D9194C802BA6707200A7E870 /* GeoMetryReader_SrcollViewLabratoyApp.swift */,
 				D9194C822BA6707200A7E870 /* ContentView.swift */,
 				D9194C842BA6707300A7E870 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9194C832BA6707200A7E870 /* ContentView.swift in Sources */,
+				D9194C8F2BA670AB00A7E870 /* @Extemtions.swift in Sources */,
 				D9194C812BA6707200A7E870 /* GeoMetryReader_SrcollViewLabratoyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
